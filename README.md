@@ -9,4 +9,5 @@ my UX designer notes
  https://dribbble.com/playbook/info  
  # UX portfolio samples
  https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/  
- https://dribbble.com/ivomynttinen
+ https://dribbble.com/ivomynttinen  
+ https://www.nathanyoung.me/
