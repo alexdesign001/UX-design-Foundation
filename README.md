@@ -10,4 +10,5 @@ my UX designer notes
  # UX portfolio samples
  https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/  
  https://dribbble.com/ivomynttinen  
- https://www.nathanyoung.me/
+ https://www.nathanyoung.me/  
+ http://rahulkumar.strikingly.com/#portfolio  
