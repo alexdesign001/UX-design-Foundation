@@ -14,5 +14,8 @@ my UX designer notes
  https://www.nathanyoung.me/  
  http://rahulkumar.strikingly.com/#portfolio  
 # Logo design site 
- https://logojoy.com/editor/26826091
+ https://logojoy.com/editor/26826091  
+
+# CF Day 1- Hot job and interview prep
+ https://www.roberthalf.com/blog/salaries-and-skills/hot-job-ux-designer  
  
