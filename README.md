@@ -16,8 +16,9 @@ my UX designer notes
 # Logo design site 
  https://logojoy.com/editor/26826091  
 
-# CF Day 1- Hot job and interview prep
+# CF Day 1
+ Hot job and interview prep
  https://www.roberthalf.com/blog/salaries-and-skills/hot-job-ux-designer  
- Differance between UX and UI
+ Differance between UX and UI  
  https://www.usertesting.com/blog/ui-vs-ux/
  
