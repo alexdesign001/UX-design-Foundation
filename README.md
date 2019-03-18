@@ -18,4 +18,6 @@ my UX designer notes
 
 # CF Day 1- Hot job and interview prep
  https://www.roberthalf.com/blog/salaries-and-skills/hot-job-ux-designer  
+ Differance between UX and UI
+ https://www.usertesting.com/blog/ui-vs-ux/
  
