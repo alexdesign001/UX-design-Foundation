@@ -23,3 +23,4 @@ my UX designer notes
  https://www.usertesting.com/blog/ui-vs-ux/  
  John Maeda, author of The Laws of Simplicity, states: “Design is a solution to a problem. Art is a question to a problem.” 
  
+ 
