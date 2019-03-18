@@ -20,5 +20,6 @@ my UX designer notes
  Hot job and interview prep
  https://www.roberthalf.com/blog/salaries-and-skills/hot-job-ux-designer  
  Differance between UX and UI  
- https://www.usertesting.com/blog/ui-vs-ux/
+ https://www.usertesting.com/blog/ui-vs-ux/  
+ John Maeda, author of The Laws of Simplicity, states: “Design is a solution to a problem. Art is a question to a problem.” 
  
