@@ -37,7 +37,11 @@ https://www.usability.gov/how-to-and-tools/resources/templates.html
 https://www.nngroup.com/articles/interviewing-users/  
 https://theuxreview.co.uk/user-interviews-the-beginners-guide/    
 How to do survery?
-https://www.invisionapp.com/inside-design/how-to-create-a-survey/
+https://www.invisionapp.com/inside-design/how-to-create-a-survey/   
+
+#Create surver site  https://www.google.com/forms/about/  
+https://www.typeform.com/  
+
 
 
  
