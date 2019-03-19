@@ -22,5 +22,12 @@ my UX designer notes
  Differance between UX and UI  
  https://www.usertesting.com/blog/ui-vs-ux/  
  John Maeda, author of The Laws of Simplicity, states: “Design is a solution to a problem. Art is a question to a problem.” 
+ # CF Day 2
+ USD design  http://www.jjg.net/elements/
+ Quarent model of UXD  https://www.slideshare.net/planstrategic/ux-hiring-hq  
+ Human centric method https://www.nngroup.com/articles/which-ux-research-methods/  
+ Usability testing tools   https://www.usertesting.com/  https://www.userzoom.com/  
+ 
+ 
  
  
