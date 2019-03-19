@@ -26,7 +26,13 @@ my UX designer notes
  USD design  http://www.jjg.net/elements/
  Quarent model of UXD  https://www.slideshare.net/planstrategic/ux-hiring-hq  
  Human centric method https://www.nngroup.com/articles/which-ux-research-methods/  
- Usability testing tools   https://www.usertesting.com/  https://www.userzoom.com/  
+ Usability testing tools   https://www.usertesting.com/   
+ https://www.userzoom.com/    
+Best for Designer U testing   https://usabilityhub.com/    
+for surver design questions  http://helsinkidesignlab.org/pages/ethnography-fieldguide.html  
+How to conduct interviews   https://careerfoundry.com/en/blog/ux-design/how-to-conduct-user-experience-research-like-a-professional  
+
+
  
  
  
