@@ -31,6 +31,13 @@ my UX designer notes
 Best for Designer U testing   https://usabilityhub.com/    
 for surver design questions  http://helsinkidesignlab.org/pages/ethnography-fieldguide.html  
 How to conduct interviews   https://careerfoundry.com/en/blog/ux-design/how-to-conduct-user-experience-research-like-a-professional  
+General thinking  https://www.interaction-design.org/literature/article/design-thinking-a-quick-overview  
+https://blog.prototypr.io/ux-research-methods-acb80b141bdc  
+https://www.usability.gov/how-to-and-tools/resources/templates.html  
+https://www.nngroup.com/articles/interviewing-users/  
+https://theuxreview.co.uk/user-interviews-the-beginners-guide/    
+How to do survery?
+https://www.invisionapp.com/inside-design/how-to-create-a-survey/
 
 
  
