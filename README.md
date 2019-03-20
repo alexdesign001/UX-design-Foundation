@@ -42,7 +42,7 @@ https://www.invisionapp.com/inside-design/how-to-create-a-survey/
 #Create surver site  https://www.google.com/forms/about/  
 https://www.typeform.com/   
 
-# CF Day 2
+# CF Day 3
 Site for free faces for persona creation   https://unsplash.com/search/photos/face  
 http://www.uifaces.com/
 How to create personas  http://startupequation.com/2016/04/building-proto-personas/  
