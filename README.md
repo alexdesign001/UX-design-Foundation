@@ -43,16 +43,16 @@ https://www.invisionapp.com/inside-design/how-to-create-a-survey/
 https://www.typeform.com/   
 
 # CF Day 3
-Site for free faces for persona creation   https://unsplash.com/search/photos/face  
-http://www.uifaces.com/
-How to create personas  http://startupequation.com/2016/04/building-proto-personas/  
-https://blog.mural.co/2016/05/06/boost-empathy-quickly-with-proto-personas  
+Site for free faces for persona creation   https://unsplash.com/search/photos/face    
+http://www.uifaces.com/  
+How to create personas  http://startupequation.com/2016/04/building-proto-personas/    
+https://blog.mural.co/2016/05/06/boost-empathy-quickly-with-proto-personas    
+Replacing The User Story With The Job Story  https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27    
+How to design problem statement  https://medium.com/@MattPLavoie/what-s-your-problem-e45b31bf08dd    
+Personas  https://www.usability.gov/how-to-and-tools/methods/personas.html    
+7 Companies That Totally 'Get' Their Buyer Personas  https://blog.hubspot.com/blog/tabid/6307/bid/33749/7-Companies-That-Totally-Get-Their-Buyer-Personas.aspx#sm.0000ef4ij16gveonsni1o33yri09n    
+B2B Buyer Personas Help Companies   https://komarketing.com/industry-news/study-buyer-personas-lead-to-b2b-marketing-success-2872/   
 Replacing The User Story With The Job Story  https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27  
-How to design problem statement  https://medium.com/@MattPLavoie/what-s-your-problem-e45b31bf08dd  
-Personas  https://www.usability.gov/how-to-and-tools/methods/personas.html  
-7 Companies That Totally 'Get' Their Buyer Personas  https://blog.hubspot.com/blog/tabid/6307/bid/33749/7-Companies-That-Totally-Get-Their-Buyer-Personas.aspx#sm.0000ef4ij16gveonsni1o33yri09n  
-B2B Buyer Personas Help Companies   https://komarketing.com/industry-news/study-buyer-personas-lead-to-b2b-marketing-success-2872/  
-Replacing The User Story With The Job Story  https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27
 
 
 
