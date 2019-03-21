@@ -55,7 +55,9 @@ B2B Buyer Personas Help Companies   https://komarketing.com/industry-news/study-
 Replacing The User Story With The Job Story  https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27    
 
 # CF Day 4
-User flow toos  https://realtimeboard.com/  
+User flow toos  
+https://go.gliffy.com/go/html5/12964396
+https://realtimeboard.com/  
 https://www.figma.com/  
 https://www.lucidchart.com/?a=0  
 https://maze.design/v2/?ref=producthunt
