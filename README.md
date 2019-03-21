@@ -52,8 +52,13 @@ How to design problem statement  https://medium.com/@MattPLavoie/what-s-your-pro
 Personas  https://www.usability.gov/how-to-and-tools/methods/personas.html    
 7 Companies That Totally 'Get' Their Buyer Personas  https://blog.hubspot.com/blog/tabid/6307/bid/33749/7-Companies-That-Totally-Get-Their-Buyer-Personas.aspx#sm.0000ef4ij16gveonsni1o33yri09n    
 B2B Buyer Personas Help Companies   https://komarketing.com/industry-news/study-buyer-personas-lead-to-b2b-marketing-success-2872/   
-Replacing The User Story With The Job Story  https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27  
+Replacing The User Story With The Job Story  https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27    
 
+# CF Day 4
+User flow toos  https://realtimeboard.com/  
+https://www.figma.com/  
+https://www.lucidchart.com/?a=0  
+https://maze.design/v2/?ref=producthunt
 
 
 
