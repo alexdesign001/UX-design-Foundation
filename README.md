@@ -9,6 +9,7 @@ my UX designer notes
  https://dribbble.com/playbook/info  
  https://www.strikingly.com
  # UX portfolio samples
+ https://designmodo.com/wordpress/
  https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/  
  https://dribbble.com/ivomynttinen  
  https://www.nathanyoung.me/  
@@ -72,7 +73,10 @@ Pre-printed phone sheets for wireframing  https://sneakpeekit.com/
 BuY E coomerce UX product  https://uxstore.com/ 
  https://ixda.org/  
  more information on prototypes http://boxesandarrows.com/integrating-prototyping-into-your-design-process/  
- Design guidelines  https://material.io/design/  https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+ Design guidelines  https://material.io/design/  https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/  
+ For more login screen inspiration  https://www.uplabs.com/search?q=sign%20up  
+ For more mobile navigation inspiration  https://uxplanet.org/basic-patterns-for-mobile-navigation-d12a87686efe  
+ The paper sketches  https://designmodo.com/web-mobile-wireframe-sketches/  
 
 
 
