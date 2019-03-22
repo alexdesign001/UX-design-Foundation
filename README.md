@@ -69,7 +69,10 @@ https://www.behance.net/gallery/60702679/Study-It-10-Week-Long-User-Experience-P
 
 # CF Day 5 
 Pre-printed phone sheets for wireframing  https://sneakpeekit.com/
-BuY E coomerce UX product  https://uxstore.com/
+BuY E coomerce UX product  https://uxstore.com/ 
+ https://ixda.org/  
+ more information on prototypes http://boxesandarrows.com/integrating-prototyping-into-your-design-process/  
+ Design guidelines  https://material.io/design/  https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
 
 
 
