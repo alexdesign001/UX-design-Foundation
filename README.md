@@ -37,7 +37,9 @@ https://www.usability.gov/how-to-and-tools/resources/templates.html
 https://www.nngroup.com/articles/interviewing-users/  
 https://theuxreview.co.uk/user-interviews-the-beginners-guide/    
 How to do survery?
-https://www.invisionapp.com/inside-design/how-to-create-a-survey/   
+https://www.invisionapp.com/inside-design/how-to-create-a-survey/    
+https://www.cindyalvarez.com/10-things-ive-learned-about-customer-development/  
+https://www.cindyalvarez.com/why-asking-for-stories-beats-asking-questions/
 
 #Create surver site  https://www.google.com/forms/about/  
 https://www.typeform.com/   
@@ -62,7 +64,11 @@ https://www.figma.com/
 https://www.lucidchart.com/?a=0  
 https://maze.design/v2/?ref=producthunt
 
-Portfolio  https://nawroth.io/flash-cardiac/  https://www.behance.net/gallery/60702679/Study-It-10-Week-Long-User-Experience-Project
+Portfolio  https://nawroth.io/flash-cardiac/   
+https://www.behance.net/gallery/60702679/Study-It-10-Week-Long-User-Experience-Project  
+
+# CF Day 5 
+
 
 
 
