@@ -77,6 +77,10 @@ BuY E coomerce UX product  https://uxstore.com/
  For more login screen inspiration  https://www.uplabs.com/search?q=sign%20up  
  For more mobile navigation inspiration  https://uxplanet.org/basic-patterns-for-mobile-navigation-d12a87686efe  
  The paper sketches  https://designmodo.com/web-mobile-wireframe-sketches/  
+ 
+ # CF Day 6
+ Usability testing  https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/  
+ rating survey by usabilty problem  https://measuringu.com/rating-severity/
 
 
 
