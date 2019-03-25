@@ -83,6 +83,12 @@ BuY E coomerce UX product  https://uxstore.com/
  rating survey by usabilty problem  https://measuringu.com/rating-severity/  
  Usabilty demo  https://www.youtube.com/watch?v=QckIzHC99Xc  
  Elememts of test plans  https://www.youtube.com/watch?v=QckIzHC99Xc
+ Recored forms  https://sensible.com/downloads-rsme.html  
+ Rocket Surgery Made Easy  http://www.sensible.com/rsme.html  
+ Usabilty test hub  https://usabilityhub.com/  
+ RATING THE SEVERITY OF USABILITY PROBLEMS  https://measuringu.com/rating-severity/  
+ Usability testing: how do we design effective tasks  https://blog.ubuntu.com/2013/08/16/usability-testing-how-do-we-design-effective-tasks  
+ 8 Ways To Measure Satisfaction (and Improve UX)  https://conversionxl.com/blog/8-ways-to-measure-ux-satisfaction/
 
 
 
