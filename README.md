@@ -79,8 +79,10 @@ BuY E coomerce UX product  https://uxstore.com/
  The paper sketches  https://designmodo.com/web-mobile-wireframe-sketches/  
  
  # CF Day 6
- Usability testing  https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/  
- rating survey by usabilty problem  https://measuringu.com/rating-severity/
+ Usability testing  https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/    https://www.nngroup.com/articles/usability-101-introduction-to-usability/
+ rating survey by usabilty problem  https://measuringu.com/rating-severity/  
+ Usabilty demo  https://www.youtube.com/watch?v=QckIzHC99Xc  
+ Elememts of test plans  https://www.youtube.com/watch?v=QckIzHC99Xc
 
 
 
