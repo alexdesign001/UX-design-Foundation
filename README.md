@@ -95,6 +95,12 @@ Product as Hero Storyboard  http://eleganthack.com/product-as-hero-storyboard/
 ABOUT STORYTELLING  https://www.youtube.com/watch?v=scLIlyT1omw  
 THE SHORT STORY SPINE  http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/  
 Why PowerPoint Presentations Always Die After 10 Minutes And How To Rescue Them  https://www.forbes.com/sites/carminegallo/2014/04/30/why-powerpoint-presentations-always-die-after-10-minutes-and-how-to-rescue-them/#1285349778ba  
+Making Compelling Slides  https://www.youtube.com/watch?v=XF34-Wu6qWU  
+Five great UX presentations on Slideshare  https://econsultancy.com/five-great-ux-presentations-on-slideshare/  https://www.slideshare.net/stephenpa/from-paths-to-sandboxes  
+Design for User Experience  https://speakerdeck.com/libux/design-for-user-experience  
+User Experience Resources  https://guides.library.harvard.edu/ux  
+Video creation for everyone  https://screencast-o-matic.com/  
+https://support.apple.com/downloads/quicktime
 
 
 
