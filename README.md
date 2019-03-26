@@ -90,7 +90,8 @@ BuY E coomerce UX product  https://uxstore.com/
  Usability testing: how do we design effective tasks  https://blog.ubuntu.com/2013/08/16/usability-testing-how-do-we-design-effective-tasks  
  8 Ways To Measure Satisfaction (and Improve UX)  https://conversionxl.com/blog/8-ways-to-measure-ux-satisfaction/
 
-
+# CF Day 7
+Product as Hero Storyboard  http://eleganthack.com/product-as-hero-storyboard/
 
 
  
