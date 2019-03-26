@@ -91,7 +91,11 @@ BuY E coomerce UX product  https://uxstore.com/
  8 Ways To Measure Satisfaction (and Improve UX)  https://conversionxl.com/blog/8-ways-to-measure-ux-satisfaction/
 
 # CF Day 7
-Product as Hero Storyboard  http://eleganthack.com/product-as-hero-storyboard/
+Product as Hero Storyboard  http://eleganthack.com/product-as-hero-storyboard/  
+ABOUT STORYTELLING  https://www.youtube.com/watch?v=scLIlyT1omw  
+THE SHORT STORY SPINE  http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/  
+Why PowerPoint Presentations Always Die After 10 Minutes And How To Rescue Them  https://www.forbes.com/sites/carminegallo/2014/04/30/why-powerpoint-presentations-always-die-after-10-minutes-and-how-to-rescue-them/#1285349778ba  
+
 
 
  
