@@ -102,6 +102,9 @@ User Experience Resources  https://guides.library.harvard.edu/ux
 Video creation for everyone  https://screencast-o-matic.com/  
 https://support.apple.com/downloads/quicktime
 
+# CF Day 8
+Understanding your shape and  Sell yourselves better  https://www.slideshare.net/jasonmesut/sell-yourselves-better-employing-ux-talent/25-Understanding_yourshape_and_how_you
+
 
 
  
