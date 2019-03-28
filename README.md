@@ -103,7 +103,12 @@ Video creation for everyone  https://screencast-o-matic.com/
 https://support.apple.com/downloads/quicktime
 
 # CF Day 8
-Understanding your shape and  Sell yourselves better  https://www.slideshare.net/jasonmesut/sell-yourselves-better-employing-ux-talent/25-Understanding_yourshape_and_how_you
+Understanding your shape and  Sell yourselves better  https://www.slideshare.net/jasonmesut/sell-yourselves-better-employing-ux-talent/25-Understanding_yourshape_and_how_you  
+UX Design Methods & Deliverables  https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d  
+UX Methods  https://www.usability.gov/how-to-and-tools/methods/index.html  
+UX facebook group  https://www.facebook.com/groups/TheUXSchool/ 
+UX techques  https://uxmastery.com/resources/techniques/  
+Great Design Portfolios Are Great Stories  https://medium.com/interactive-mind/great-design-portfolios-are-great-stories-7bb2617cd7ab
 
 
 
