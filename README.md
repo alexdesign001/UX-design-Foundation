@@ -5,14 +5,15 @@ my UX designer notes
 > https://www.udemy.com/user/davidtravis/  
 > https://classroom.udacity.com/authenticated  
 # UX portfolio site
+ https://folyo.me/  
  https://www.behance.net/bombatkarmccae  
  https://dribbble.com/playbook/info  
  https://www.strikingly.com
  # UX portfolio samples
- http://wpdemos.themezaa.com/pofo/home-portfolio-metro/
-
- #(https://www.princepal.in/)  
- https://designmodo.com/wordpress/
+ http://wpdemos.themezaa.com/pofo/home-portfolio-metro/  
+ @ https://ivomynttinen.com/  
+ @ (https://www.princepal.in/)    
+ https://designmodo.com/wordpress/  
  https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/  
  https://dribbble.com/ivomynttinen  
  https://www.nathanyoung.me/  
