@@ -11,7 +11,7 @@ my UX designer notes
  # UX portfolio samples
  http://wpdemos.themezaa.com/pofo/home-portfolio-metro/
 
- #(https://www.princepal.in/)
+ #(https://www.princepal.in/)  
  https://designmodo.com/wordpress/
  https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/  
  https://dribbble.com/ivomynttinen  
