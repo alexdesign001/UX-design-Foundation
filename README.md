@@ -11,6 +11,9 @@ https://www.behance.net/gallery/78037555/Herb-Recipe-application
  https://dribbble.com/playbook/info  
  https://www.strikingly.com
  # UX portfolio samples
+@  http://christinemaggi.com  
+   http://simonpan.com/  
+   http://treppmann.design
  http://wpdemos.themezaa.com/pofo/home-portfolio-metro/  
  @ https://ivomynttinen.com/  
  @ (https://www.princepal.in/)    
